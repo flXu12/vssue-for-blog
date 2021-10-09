@@ -1,0 +1,14 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "eslint.workingDirectories": [
+    { "mode": "auto" }
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "vetur.validation.template": false,
+  "editor.tabSize": 2,
+	"editor.detectIndentation": false,
+}
